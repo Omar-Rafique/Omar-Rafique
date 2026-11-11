@@ -1,6 +1,6 @@
 # Hi, I'm Omar 👋
 
-Aspiring software engineer from Pakistan 🇵🇰, building practical projects with **Python**, **React** and **Next.js**.
+Software Engineering student at **NIIT (NASTP)** in Pakistan 🇵🇰, building practical projects with **Python**, **React** and **Next.js**.
 Currently looking for a **Software Engineering internship**.
 
 ### 🛠️ Tech I work with
@@ -17,6 +17,7 @@ Currently looking for a **Software Engineering internship**.
 
 | Project | What it does | Stack |
 | ------- | ------------ | ----- |
+| [**internship-tracker**](https://github.com/Omar-Rafique/internship-tracker) | Kanban board for internship applications with deadline alerts and stats ([live demo](https://omar-rafique.github.io/internship-tracker/)) | Next.js 15 · React 19 · TypeScript · Vitest |
 | [**habit-tracker**](https://github.com/Omar-Rafique/habit-tracker) | Track daily habits, streaks and completion rate ([live demo](https://omar-rafique.github.io/habit-tracker/)) | React · TypeScript · Vite · Vitest |
 | [**split-it**](https://github.com/Omar-Rafique/split-it) | Split shared expenses and settle up with the fewest payments | Python · pytest · CLI |
 
